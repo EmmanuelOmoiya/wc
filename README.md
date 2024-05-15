@@ -1,6 +1,6 @@
 # WC
 
-A similar version of the Unix command line tool wc!
+A similar version of the Unix command line tool wc written in Go!
 
 wc is a simple Go CLI built with Cobra that will be capable of doing the followings:
 
